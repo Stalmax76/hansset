@@ -9,13 +9,13 @@ Features
 -Contact
 -404 Page
 
-## Custom JavaScript interactions
+# Custom JavaScript interactions
 -Active‑state switching for blog and work items
 -Auto‑expanding textarea (data-fls-input-autoheight)
 -Modular JS architecture (app.min.js + page‑specific modules)
 -Dynamic footer styling depending on page type
 
-##Advanced form validation
+#Advanced form validation
 -Email validation
 -Required fields
 -Checkbox validation
@@ -25,13 +25,13 @@ Features
 -AJAX submission support
 -Integration with popups (flsPopup)
 
-## Responsive & accessible UI
+# Responsive & accessible UI
 -SCSS architecture
 -Adaptive layout
 -Clean semantic HTML
 -Cross‑browser compatibility
 
-## Tech Stack
+# Tech Stack
 - HTML5
 - SCSS
 - JavaScript (ES6 Modules)
@@ -39,7 +39,7 @@ Features
 - Custom form validation logic
 - Modular UI scripts
 
-##Project Structure
+#Project Structure
 - /src
   /components
   /js
@@ -50,7 +50,7 @@ Features
   /scss
   /pages
 
- ## Key Responsibilities (Your Role)
+ # Key Responsibilities (Your Role)
 -Developed modular JavaScript logic for UI interactions
 -Implemented full custom form validation system
 -Built auto‑height textarea functionality
