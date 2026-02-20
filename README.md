@@ -1,4 +1,4 @@
-# Hansset — Multi‑Page Creative Agency Website
+# 🎞️ Hansset — Multi‑Page Creative Agency Website
 
 A responsive multi‑page website built for a creative agency. The project focuses on clean UI, smooth user interactions, and modular JavaScript logic.
 
@@ -8,7 +8,7 @@ Includes:
 - Dynamic content switching
 - Enhanced UX features across all pages
 
-##Features
+## 🚀 Features
 
 ### Multi‑page structure
 
@@ -44,7 +44,7 @@ Includes:
 - Clean semantic HTML
 - Cross‑browser compatibility
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - HTML5
 - SCSS
@@ -82,54 +82,3 @@ https://stalmax76.github.io/hansset/
 ## 📁 GitHub Repository
 
 https://github.com/Stalmax76/hansset
-
-## 🚀 Features
-
-### Multi-Page Structure
-
-- Home
-- Blog
-- Blog Single
-- Works / Portfolio
-- Contact
-- 404 Page
-
-### Custom JavaScript Interactions
-
-- Active-state switching for blog and work items
-- Auto-expanding textarea (`data-fls-input-autoheight`)
-- Modular JS architecture (`app.min.js` + page-specific modules)
-- Dynamic footer styling depending on page type
-
-### Advanced Form Validation
-
-- Email validation
-- Required fields validation
-- Checkbox validation
-- Error & success UI states
-- Custom error messages
-- Form reset logic
-- AJAX submission support
-- Integration with popups (`flsPopup`)
-
-### Responsive & Accessible UI
-
-- SCSS architecture
-- Adaptive layout
-- Clean semantic HTML
-- Cross-browser compatibility
-
----
-
-## 🛠 Tech Stack
-
-- HTML5
-- SCSS
-- JavaScript (ES6 Modules)
-- Gulp (build system)
-- Custom form validation logic
-- Modular UI scripts
-
----
-
-## 📁 Project Structure
